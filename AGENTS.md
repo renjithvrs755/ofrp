@@ -22,5 +22,8 @@ PQ35 with a 7-inch MIB2 Composition Media head unit.
 - Distinguish verified facts, measurements, OEM sources, community reports,
   and assumptions.
 - Never present an unverified pinout or electrical claim as confirmed.
+- Use the itemized validation workflow in
+  `engineering/validation/VAL-0001_Amplifier_Connector_and_Pinout_Validation.md`
+  before promoting amplifier wiring claims or authorizing a bench-power test.
 - Do not commit generated PDF, DOCX, ZIP, or bundle files.
 - Review changes before committing.

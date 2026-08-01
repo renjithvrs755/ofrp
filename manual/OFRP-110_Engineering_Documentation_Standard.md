@@ -1,9 +1,10 @@
 ---
 document_id: OFRP-110
 title: Engineering Documentation Standard
-revision: 1.0
+
+revision: 1.1
 status: Approved
-release: 0.2.0
+release: 0.3.0
 owner: OFRP maintainers
 last_updated: 2026-08-01
 ---
@@ -98,8 +99,17 @@ entry. IDs use a prefix, hyphen, and zero-padded four-digit sequence.
 | `EDL` | Engineering decision | `EDL-0001` |
 | `RR` | Research item or known unknown | `RR-0001` |
 
+| `HYP` | Testable engineering hypothesis | `HYP-0001` |
+| `WIR` | Wiring register or controlled wiring record | `WIR-0001` |
+| `WH` | Individually traced wire or conductor | `WH-0001` |
+| `BLD` | Build-log record | `BLD-0001` |
+
 References to an entity must use its ID. A part number does not replace an
 engineering ID because multiple physical specimens may share a part number.
+Hypotheses remain `V0` until evidence resolves them; an identifier makes a
+hypothesis traceable, not true.
+
+
 
 ## 5. Required metadata
 

@@ -1,5 +1,23 @@
 # Changelog
 
+
+## [0.3.0] - 2026-08-01
+
+### Added
+- Controlled dossier and component record for Panasonic amplifier `AMP-0001`.
+- Connector component record for `CON-0001`, including inspection and
+  orientation controls.
+- Pinout and wire-trace working registers containing no assumed assignments.
+- `VAL-0001` connector and pinout validation plan with bench-power safety gates.
+- Unexecuted `TEST-0001` amplifier bench-power template.
+- Hypothesis register and additional known unknowns for amplifier wiring work.
+
+### Changed
+- Extended OFRP-110 with hypothesis, wiring, wire, and build-log identifiers.
+- Expanded the research registers and roadmap for the v0.3.0 validation phase.
+- Added a decision requiring evidence-gated bench power.
+- Updated repository agent instructions to reference the validation workflow.
+
 ## [0.2.0] - 2026-08-01
 
 ### Added
