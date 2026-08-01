@@ -1,0 +1,22 @@
+# Generated exports
+*.bundle
+*.rendered.html
+*.png
+
+# Local exports
+chat.html
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Build output
+site/
+dist/
+build/
+
+# Generated documents
+releases/
