@@ -1,7 +1,6 @@
 # Generated exports
 *.bundle
 *.rendered.html
-*.png
 
 # Local exports
 chat.html

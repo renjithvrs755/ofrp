@@ -5,6 +5,7 @@ terms follow [OFRP-110](../../manual/OFRP-110_Engineering_Documentation_Standard
 
 | ID | Question | Priority | Status | Owner | Verification | Evidence / next action |
 |---|---|---|---|---|---|---|
+
 | <a id="rr-0001"></a>RR-0001 | What is the verified pinout of amplifier `AMP-0001`? | Critical | Open | Unassigned | V0 | Identify connector and obtain an applicable OEM current-flow diagram before applying power. |
 | <a id="rr-0002"></a>RR-0002 | How are the `CON-0001` cavities numbered for both mating-face and wire-entry views? | Critical | Open | Unassigned | V0 | Photograph both faces and correlate molded markings with applicable primary documentation. |
 | <a id="rr-0003"></a>RR-0003 | Does `AMP-0001` require CAN-bus wake-up, a discrete remote signal, or another method? | High | Open | Unassigned | V0 | Evaluate [HYP-0001](hypothesis-register.md) using OEM documentation and a separately approved observation plan. |

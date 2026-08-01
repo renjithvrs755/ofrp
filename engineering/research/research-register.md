@@ -2,6 +2,7 @@
 
 | ID | Topic | Priority | Status |
 |----|-------|----------|--------|
+
 | [RR-0001](known-unknowns.md#rr-0001) | Amplifier pinout | Critical | Open |
 | [RR-0002](known-unknowns.md#rr-0002) | Connector pin numbering | Critical | Open |
 | [RR-0003](known-unknowns.md#rr-0003) | CAN wake-up | High | Open |
@@ -14,3 +15,4 @@
 | [RR-0010](known-unknowns.md#rr-0010) | DSP dataset applicability | High | Open |
 | [RR-0011](known-unknowns.md#rr-0011) | Harness reconstruction sufficiency | High | Open |
 | [RR-0012](known-unknowns.md#rr-0012) | Connector-family revision compatibility | High | Open |
+
